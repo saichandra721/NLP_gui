@@ -1,0 +1,16 @@
+{
+  "name": "nlp_project",
+  "version": "1.0.0",
+  "description": "nlp project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sai chandra",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
